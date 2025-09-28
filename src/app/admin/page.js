@@ -270,7 +270,7 @@ CERT-003|${JSON.stringify({...sampleCertificate, studentName: "Carol Davis", gra
             <XCircle className="mx-auto h-24 w-24 text-red-500 mb-6" />
             <h2 className="text-2xl font-bold text-gray-900 mb-4">Access Denied</h2>
             <p className="text-gray-600 mb-8">
-              You don't have admin privileges to access this portal
+              You dont have admin privileges to access this portal
             </p>
             <Link
               href="/"
