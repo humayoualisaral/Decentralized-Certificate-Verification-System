@@ -3,7 +3,7 @@ import React, { createContext, useContext, useState, useEffect, useCallback } fr
 import { ethers } from 'ethers';
 
 // Your verified contract address on Sepolia
-const CONTRACT_ADDRESS = "0x8eB78582fd9aC923d91eD7675679DdccD7B289cD";
+const CONTRACT_ADDRESS = "0x5B9867d71e5f3AB5a55f19EF81c3a34FF946003e";
 
 // Contract ABI based on your CertificateValidator contract
 const CONTRACT_ABI = [
